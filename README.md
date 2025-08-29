@@ -55,7 +55,7 @@
 
 | Game Board | Win Animation | Score Tracking |
 |------------|---------------|----------------|
-| ![Game](screenshots/Screenshot_20250829_085615.jpg) | ![XWin](screenshots/Screenshot_20250829_085628.jpg) |![OWin](Screenshot_20250829_085715.jpg) |
+| ![Game](screenshots/Screenshot_20250829_085615.jpg) | ![XWin](screenshots/Screenshot_20250829_085628.jpg) |![OWin](screenshots/Screenshot_20250829_085715.jpg) |
 
 ---
 
